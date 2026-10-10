@@ -4,7 +4,7 @@ A pixel-art poker trainer built with **Lua**, **LÖVE2D**, and **Aseprite**.
 
 ## Overview
 
-`Pixel Poker is a personal project exploring poker strategy, game development, and pixel-art design.
+`Pixel Poker` is a personal project exploring poker strategy, game development, and pixel-art design.
 
 The goal is to build an interactive environment for practicing poker fundamentals, evaluating hands, and improving decision-making.
 
