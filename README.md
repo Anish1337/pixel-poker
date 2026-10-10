@@ -1,4 +1,4 @@
-# love_poker
+# Pixel Poker
 
 A pixel-art poker trainer built with **Lua**, **LÖVE2D**, and **Aseprite**.
 
